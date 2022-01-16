@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Mapping_Earthquakes - Earthquake Challenge
 
 This repository contains code for a website to show a map of recent Earthquakes.
 
